@@ -1,5 +1,5 @@
-PROJECT(rply)
 cmake_minimum_required(VERSION 2.6)
+PROJECT(rply)
 
 SET(RPLY_LIB_MAJOR_VERSION 1)
 SET(RPLY_LIB_MINOR_VERSION 01)
